@@ -1,4 +1,4 @@
 estudos_rails
 =============
 
-Projeto para estudo da linguagem.
+Projeto para estudo do framework.
